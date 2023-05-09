@@ -7,3 +7,6 @@ The goal of this site is to create a weather dashboard that will present the use
 
 To use the dashboard type the name of a city in the search box and select the spyglass. As you search the city will be saved to a list allowing you to select them again for viewing.   
 
+
+# Live link
+https://tehila03.github.io/Weather-Dashboard/
